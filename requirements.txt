@@ -4,7 +4,7 @@ Pillow==12.3.0
 
 moviepy==1.0.3
 
-rembg==2.0.56
+rembg==2.0.81
 
 arabic-reshaper==3.0.0
 
