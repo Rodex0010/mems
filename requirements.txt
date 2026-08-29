@@ -1,8 +1,15 @@
 python-telegram-bot[ext]>=22.7,<23
-Pillow==10.2.0
+
+Pillow==12.3.0
+
 moviepy==1.0.3
+
 rembg==2.0.56
+
 arabic-reshaper==3.0.0
+
 python-bidi==0.4.2
+
 pyrogram>=2.0.106
+
 git+https://github.com/KurimuzonAkuma/kurigram.git
